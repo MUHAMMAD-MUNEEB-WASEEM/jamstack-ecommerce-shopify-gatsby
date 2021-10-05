@@ -21,6 +21,7 @@
     "gatsby": "^3.13.1",
     "gatsby-source-stripe": "^3.2.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "stripe": "^8.178.0"
   }
 }
